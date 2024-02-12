@@ -13,13 +13,14 @@
 - 💼 Visit InComm Payments official website @ https://www.incomm.com/
 - 💼 Visit InComm's GoStudio official website @ https://gostudio.io/
 
+<!--
+
 ### JarekQ outside of InComm Payments
 - 😄 What I do outside of work: Research new tech & Web3, Stay in-tune with Game Industry, Watch Cool Movies
 - 💬 Ask me about: Star Wars, Star Trek, Cats, Game Design & Development, Cryptocurrency, & AI
 - ⚡ Fun fact: JarekQ is my real name, the 1 and Only!
 - 🤝 Connect with me on LinkedIn @ https://www.linkedin.com/in/JarekQ
 
-<!--
 **jaloisio-incomm/jaloisio-incomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
