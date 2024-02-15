@@ -5,7 +5,7 @@
 ### JarekQ is a Software Engineer and just kicking off FY2024 in the Developer Direction
 
 ### Check out what JarekQ is up at InComm in the list below:
-- 🔭 I’m currently working on: Performance Reviews & M.F.B. (Those who know, know)
+- 🔭 I’m currently working on: GitHub / ServiceNow workflow process with DBA's & M.F.B. (Those who know, know)
 - 🌱 I’m currently learning: Web Developer RoleIQ on Pluralsight @ https://www.pluralsight.com/
 - 👯 I’m looking to collaborate on: Artificial Intelligence, Robotic Process Automation, and SQL Stored Procedures
 - 🤔 I’m looking for help with: Opportunities in software development
